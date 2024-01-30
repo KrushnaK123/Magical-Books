@@ -2558,7 +2558,12 @@ html,body{
         height: 286px !important;
         margin-top: 0rem !important;
     }
-    
+    .bookphoto img{
+        height: 175px;
+        width: auto;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
     .bookimgs img{
         margin-top: 1rem;
     }
