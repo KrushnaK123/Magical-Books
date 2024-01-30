@@ -2294,7 +2294,10 @@ html,body{
         text-align: center;
         padding: 10px 0px;
     }
-    
+    .big-booktext img{
+       height: 280px !important;
+        width: auto !important;   
+    }
     .big-booktext h1{
         margin: auto;
         display: flex;
