@@ -2529,12 +2529,12 @@ html,body{
         padding: 0px;
         margin: auto;
     }
-    .colorbackg img{
+/*     .colorbackg img{
         height: 290px;
         width: auto;
         margin-top: 1rem;
         margin-bottom: 1rem;
-    }
+    } */
     .booktext h1{
         margin: auto;
         display: flex;
