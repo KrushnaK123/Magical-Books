@@ -2479,6 +2479,11 @@ html,body{
         width: auto !important;
         margin-top: 0rem !important;
     }
+
+    .booki1 img{
+       height: 200px !important;
+        width: auto !important; 
+    }
     .booktext img{
         height: 286px !important;
         width: auto !important;
