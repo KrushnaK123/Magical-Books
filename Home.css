@@ -703,9 +703,8 @@ html,body{
         
     }
     #carousel-imgs{
-        height: 11rem !important;
-        width: 14rem !important;
-        border-radius: .3rem !important;
+        height: 12rem !important;
+        width: 16rem !important;
     }
     .carousel-inner {
         height: 14rem !important;
@@ -1603,6 +1602,7 @@ html,body{
         margin-top: 0.5rem;
         display: flex;
         gap: 1rem;
+        
     }
     
     .recycle{
@@ -1753,14 +1753,14 @@ html,body{
     padding: 0px 50px;
 }
 
-
-.colorbackg img{
+.bookphoto img{
     margin: auto;
     display: flex;
     height: 311px;
     width: 350px;
     border-radius: 5px;
 }
+
 .booktext h1{
     margin: auto;
     display: flex;
@@ -2049,6 +2049,12 @@ html,body{
         margin-top: 0rem;
         margin-bottom: 0rem;
     }
+    .bookphoto img{
+        height: 175px;
+        width: auto;
+        margin-top: 0rem;
+        margin-bottom: 0rem;
+    }
     .booktext h1{
         display: flex;
         justify-content: center;
@@ -2280,8 +2286,9 @@ html,body{
         color: #121212bf;
        
     }
-    .colorbackg img{
-        height: 286px;
+
+    .bookphoto img{
+        height: 259px;
         width: auto;
         margin-top: 1rem;
         margin-bottom: 1rem;
@@ -2497,7 +2504,7 @@ html,body{
     }
     .footer{
         font-size: 12px;
-        padding: 1rem 0rem 1rem 0rem;
+        padding: 0rem 0rem 1rem 0rem;
     }
     
  }
@@ -2529,12 +2536,12 @@ html,body{
         padding: 0px;
         margin: auto;
     }
-/*     .colorbackg img{
-        height: 290px;
+    .bookphoto img{
+        height: 175px;
         width: auto;
         margin-top: 1rem;
         margin-bottom: 1rem;
-    } */
+    }
     .booktext h1{
         margin: auto;
         display: flex;
@@ -2558,12 +2565,7 @@ html,body{
         height: 286px !important;
         margin-top: 0rem !important;
     }
-    .bookphoto img{
-        height: 175px;
-        width: auto;
-        margin-top: 1rem;
-        margin-bottom: 1rem;
-    }
+    
     .bookimgs img{
         margin-top: 1rem;
     }
