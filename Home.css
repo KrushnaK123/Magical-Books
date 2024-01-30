@@ -2309,7 +2309,9 @@ html,body{
     }
     
     .bookimgs img{
-        margin-top: 1rem;
+         height: 340px !important;
+         width: auto !important; 
+         margin-top: 1rem;
     }
     
     .stext h2{
